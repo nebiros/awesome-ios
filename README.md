@@ -88,6 +88,7 @@ The list is divided into categories such as Frameworks, Components, Testing and 
 
 ### Database
  * [Realm](https://github.com/realm/realm-cocoa) - The alternative to CoreData and SQLite: Simple, modern and fast.
+ * [YapDatabase](https://github.com/yapstudios/YapDatabase) - A collection/key/value store built atop sqlite for iOS & Mac, with a plugin architecture that provides for advanced functionality such as Views, Secondary Indexes, Full Text Search, etc.
 
 ### HUD
  * [MBProgressHUD](https://github.com/jdg/MBProgressHUD) - Drop-in class for displays a translucent HUD with an indicator and/or labels while work is being done in a background thread.
